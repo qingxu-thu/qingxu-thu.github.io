@@ -1,40 +1,38 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+title: Haoxiang Wang
+position: PhD Student
+affiliation: Automation, Tsinghua University
+affiliation_link: https://www.tsinghua.edu.cn/
+# affiliation_logo: ./assets/img/illinois.svg
+email: whx22@mails.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+keywords: haoxiang wang, wang haoxiang, haoxiangwang, wanghaoxiang
+canonical: https://qingxu-thu.github.io
+description: Haoxiang Wang is a PhD student at the Department of Automation, Tsinghua University. His research interests are physical simulation and animation.
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/qingxu-thu/
+linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
 
 # Images 
-avatar: https://img.yliu.me/avatar_new.jpg
+avatar: ./assets/img/TSG-00656-2020-haoxiangwang.jpg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: Personal academic homepage.
+footnote_link: https://github.com/qingxu-thu/
 
 # Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+# clustrmaps_id: YOUR_CLUSTRMAPS_ID
 
 # The following files will be removed from the generated website.
 exclude:
