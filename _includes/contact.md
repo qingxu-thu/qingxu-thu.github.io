@@ -1,7 +1,9 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-Department of Automation, Tsinghua University
+614 E. Daniel St. MC-314
 <br />
-Beijing, China
+Champaign, IL 61820-7999
 <br />
-Email: <a href="mailto:whx22@mails.tsinghua.edu.cn">whx22@mails.tsinghua.edu.cn</a>
+Phone: <a href="tel:+12173000910">217-300-0910</a>
+<br />
+Office: <a href="https://maps.app.goo.gl/xvHRWG27wSZXQ1Cv7">5125</a>
