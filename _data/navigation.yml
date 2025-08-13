@@ -2,6 +2,7 @@ main:
 
   - title: "Services"
     url: services/
+    right: true
 
   - title: "Publications"
     url: publications/
