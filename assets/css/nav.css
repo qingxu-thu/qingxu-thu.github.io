@@ -10,8 +10,6 @@
 
   .topnav #myLinks {
     display: inline;
-    text-align: center;
-    width: 100%;
   }
 
 .topnav a.icon {
@@ -26,13 +24,12 @@
   
   /* Style the links inside the navigation bar */
   .topnav a.normal {
-    display: inline-block;
+    float: right;
     color: #f2f2f2;
     text-align: center;
-    padding: 10px 15px;
+    padding: 10px 9px;
     text-decoration: none;
     font-size: 17px;
-    margin: 0 5px;
   }
   
   /* Change the color of links on hover */
@@ -43,8 +40,7 @@
   
   /* Add a color to the active/current link */
   .topnav a.right {
-    display: inline-block;
-    margin: 0 5px;
+    margin-right:30%;
   }
 
   @media print, screen and (max-width: 1000px) { 
@@ -54,12 +50,11 @@
       }
 
     .topnav a.right {
-        margin: 0 2px;
+        margin-right:3%;
       }
 
     .topnav a.normal {
         padding: 10px 5px;
-        margin: 0 2px;
     }
 
    }
@@ -70,7 +65,7 @@
         margin-left:6%;
       }
     .topnav a.right {
-        margin: 0 3px;
+        margin-right:6%;
       }
 
    }
@@ -81,7 +76,7 @@
         margin-left:12%;
       }
     .topnav a.right {
-        margin: 0 4px;
+        margin-right:12%;
       }
 
       }
@@ -93,7 +88,7 @@
         margin-left:16%;
       }
     .topnav a.right {
-        margin: 0 4px;
+        margin-right:16%;
       }
 
    }
@@ -104,7 +99,7 @@
         margin-left:19%;
       }
     .topnav a.right {
-        margin: 0 5px;
+        margin-right:19%;
       }
 
    }
@@ -115,7 +110,7 @@
         margin-left:22%;
       }
     .topnav a.right {
-        margin: 0 5px;
+        margin-right:22%;
       }
 
    }
@@ -161,7 +156,7 @@
         text-decoration: none;
         font-size: 17px;
         display: block;
-        margin: 0;
+        margin-right:0;
       }
    }
    
