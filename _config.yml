@@ -3,7 +3,7 @@ title: Haoxiang Wang
 position: PhD Student
 affiliation: Automation, Tsinghua University
 affiliation_link: https://www.tsinghua.edu.cn/
-affiliation_logo: ./assets/img/illinois.svg
+# affiliation_logo: ./assets/img/illinois.svg
 email: whx22@mails.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
@@ -12,7 +12,7 @@ canonical: https://qingxu-thu.github.io
 description: Haoxiang Wang is a PhD student at the Department of Automation, Tsinghua University. His research interests are physical simulation and animation.
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
