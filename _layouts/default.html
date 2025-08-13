@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="{{ site.title }} | {{ site.affiliation }}">
     <meta property="og:description" content="{{ site.description }}">
     <meta property="og:locale" content="default">
-    <meta property="og:image" content="../{{ site.avatar }}">
+    <meta property="og:image" content="../assets/img/TSG-00656-2020-haoxiangwang.jpg">
     <!-- <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
     <meta name="twitter:description" content="{{ site.description }}">
@@ -130,7 +130,7 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>University of Illinois<br>Urbana-Champaign</autocolor></a>
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
