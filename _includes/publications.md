@@ -183,11 +183,11 @@
 
 <table style="width:100%; border: none;">
    <tr>
-    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="../assets/img/T.gif" width="300" alt="Plasma Ignition Simulation"></p></th>
+    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/T.gif" width="300" alt="Plasma Ignition Simulation"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Physical simluation for plasma ignition</strong><br>Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering. [<a href="https://github.com/qingxu-thu/plasma_ignite">code</a>]</p></li></ul></th>
   </tr>
   <tr>
-    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><video width="300" height="150" controls><source src="./assets/videos/gs.avi" type="video/avi">您的浏览器不支持AVI视频格式。请<a href="../assets/videos/gs.avi" download>下载视频</a>查看。</video></p></th>
+    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/gs.gif" width="300" alt="Plasma Ignition Simulation"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>High-fidelity Gaussian Blendshapes </strong><br>Use multiple high resolution cameras to construct the blendshapes for human head with 3D Gaussian splatting. [<a href="https://drive.google.com/file/d/1vYyign7oV-nO6pZeOcSlaxuZsqFYHxk_/view?usp=drive_link">code</a>]</p></li></ul></th>
   </tr>
 </table>
