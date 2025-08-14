@@ -1,4 +1,4 @@
-Fluid Simulation:
+Fluid_Simulation:
   - title: Kinetic Free-Surface Flows and Foams with sharp Interfaces
     authors: <strong>Haoxiang Wang</strong>, Hui Qiao, Kui Wu, Mattieu Desbrun, Wei Li
     conference: ACM Transactions on Graphics (SIGGRAPH Asia 2025, Journal Track)
@@ -15,13 +15,26 @@ Fluid Simulation:
     conference: Annual AAAI Conference on Artificial Intelligence (AAAI oral) 2024
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28349/28684
     bibtex: https://dblp.org/rec/conf/aaai/Wang0YQD24.html?view=bibtex
+    Talk: https://underline.io/lecture/92723-neural-physical-simulation-with-multi-resolution-hash-grid-encoding
     notes: Oral
 
-High-fieldity Reconstruction:
-  -
+High-fieldity_Reconstruction:
+  - title: "ImViD: Immersive Volumetric Videos for Enhanced VR Engagement"
+    authors:  Zhengxian Yang, Shi Pan, Shengqi Wang, <strong>Haoxiang Wang</strong>, Li Lin, Guanjun Li, Zhengqi Wen, Borong Lin, Jianhua Tao, Tao Yu.
+    conferene: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025 highlight).
+    page: https://yzxqh.github.io/ImViD/
+    pdf: https://arxiv.org/pdf/2503.14359
+    Talk: https://www.youtube.com/watch?v=qRl8lEAIPGI
+    bibtex: https://dblp.org/rec/conf/cvpr/YangPWWLLWL0Y25.html?view=bibtex
+
+  - title: "ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction"
+    authors: Xiaohang Yu, <strong>Haoxiang Wang</strong>, Yuqi Han, Lei Yang, Tao Yu, Qionghai Dai
+    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025 highlight).
+    pdf: https://arxiv.org/abs/2309.01374
+    bibtex: https://dblp.org/rec/journals/tvcg/YuWHYYD25.html?view=bibtex
 
 
-Stochastic Process and Privacy:
+Stochastic_Process_and_Privacy:
   - title: "Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective"
     authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
     conference: IEEE Transactions on Smart Grid
@@ -32,49 +45,71 @@ Stochastic Process and Privacy:
     authors: <strong>Haoxiang Wang</strong>, Chenye Wu
     conference: ACM SIGEnergy '20
     pdf: ./assets/eenergy.pdf
+    bibtex: https://dblp.org/rec/conf/eenergy/WangW20.html?view=bibtex
+
 
   - title: "Differential Privacy in Consumer Behavior Analysis"
     authors: <strong>Haoxiang Wang</strong>, Xun Luo, Chenye Wu
     conference: IEEE PES General Meeting 2021
     pdf: ./assets/Privacy_for_PES__Copy_.pdf
     Talk: https://youtu.be/WJ_vojAD7mw
+    bibtex: https://ieeexplore.ieee.org/document/9637997
 
   - title: "Privacy Preservation for Time Series Data in the Electricity Sector"
     authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
     conference: IEEE Transactions on Smart Grid
     pdf: ./assets/Privacy_Preservation_for_Time_Series_Data_in_the_Electricity_Sector.pdf
+    bibtex: https://dblp.org/rec/journals/tsg/WangW23.html?view=bibtex
 
+  - title: "Privacy preserving user energy consumption profiling: From theory to application"
+    authors: Chenbei Lu, Jingshi Cui, <strong>Haoxiang Wang</strong>, Hongyu Yi, Chenye Wu
+    conference: IEEE Transactions on Smart Grid
+    pdf: https://luchenbei.com/files/Privacy_Preserving_User_Energy_Consumption_Profiling_From_Theory_to_Application.pdf
+    bibtex: https://dblp.org/rec/journals/tsg/LuC0YW24.html?view=bibtex
+
+  - title: "Manipulation-proof virtual bidding mechanism design"
+    authors: Chenbei Lu, Jinhao Liang, Nan Gu, <strong>Haoxiang Wang</strong>, Chenye Wu
+    conference: IEEE Transactions on Energy Markets, Policy and Regulation
+    pdf: https://ieeexplore.ieee.org/abstract/document/10269719/
+    bibtex: https://ieeexplore.ieee.org/document/10269719
 
   - title: "Asynchronous Training Schemes in Distributed Learning with Time Delay"
     authors: <strong>Haoxiang Wang</strong>, Zhanhong Jiang, Chao Liu
-    conference_short: Working Paper
-    pdf: ./assets/asynchronous_training_schemes_.pdf
+    conference: Transactions on Machine Learning Research
+    pdf: https://openreview.net/pdf?id=zOGJxw07Z6
+    bibtex: https://dblp.org/rec/journals/tmlr/0006J0SJL24.html?view=bibtex
 
-Data Analysis and Machine Learning:
+Data_Analysis_and_Machine_Learning:
   - title: "Optimal Green Certificate Auction Considering Economic Dispatch"
     authors: <strong>Haoxiang Wang</strong>, Chenye Wu
     conference: ACM SIGEnergy '22
     pdf: ./assets/optimal auction.pdf
-    Talk: 
+    Talk: https://www.youtube.com/watch?v=BO0XTwquxtQ&t=53s
+    bibtex: https://dl.acm.org/doi/10.1145/3538637.3538847
 
   - title: "Vulnerability Analysis for Data Driven Pricing Schemes"
     authors: Jingshi Cui, <strong>Haoxiang Wang</strong>, Chenye Wu
     conference: IEEE PES General Meeting
     pdf: https://arxiv.org/pdf/1911.07453.pdf
+    bibtex: https://dblp.org/rec/journals/corr/abs-1911-07453.html?view=bibtex
 
   - title: "Robust Data-driven Profile-based Pricing Schemes"
     authors: Jingshi Cui, <strong>Haoxiang Wang</strong>, Chenye Wu
     conference: IEEE ISGT NA 2021
     pdf: https://arxiv.org/pdf/1912.05731.pdf
+    bibtex: https://dblp.org/rec/conf/isgt/CuiWW021.html?view=bibtex
 
   - title: "Bridging Chance-constrained and Robust Optimization in an Emission-aware Economic Dispatch with Energy Storage"
     authors: Nan Gu, <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenye Wu
     conference: IEEE Transactions on Power Systems
+    pdf: https://ieeexplore.ieee.org/document/9508851
+    bibtex: https://ieeexplore.ieee.org/document/9508851/
 
   - title: "Collaborative deep learning framework for fault diagnosis in distributed complex systems"
     authors: <strong>Haoxiang Wang</strong>, Chao Liu, Dongxiang Jiang, Zhanhong Jiang
     conference: Mechanical Systems and Signal Processing
     pdf: ./assets/mssp.pdf
+    bibtex: https://www.sciencedirect.com/science/article/pii/S0888327021000455
 
 
 
