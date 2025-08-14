@@ -1,79 +1,79 @@
 main:
 
-  - title: "Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective"
-    authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
-    conference_short: IEEE TSG
-    conference: IEEE Transactions on Smart Grid
-    pdf: https://arxiv.org/pdf/2011.06205.pdf
-    bibtex: https://dblp.org/rec/journals/tsg/WangZLW21.html?view=bibtex
-    # image: https://img.yliu.me/teaser/imagenet3d.png
+  # - title: "Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective"
+  #   authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
+  #   conference_short: IEEE TSG
+  #   conference: IEEE Transactions on Smart Grid
+  #   pdf: https://arxiv.org/pdf/2011.06205.pdf
+  #   bibtex: https://dblp.org/rec/journals/tsg/WangZLW21.html?view=bibtex
+  #   # image: https://img.yliu.me/teaser/imagenet3d.png
 
-  - title: "Understanding Differential Privacy in Non-Intrusive Load Monitoring"
-    authors: <strong>Haoxiang Wang</strong>, Chenye Wu
-    conference_short: e-Energy
-    conference: e-Energy '20
-    pdf: ./assets/eenergy.pdf
-    notes: "accepted"
+  # - title: "Understanding Differential Privacy in Non-Intrusive Load Monitoring"
+  #   authors: <strong>Haoxiang Wang</strong>, Chenye Wu
+  #   conference_short: e-Energy
+  #   conference: e-Energy '20
+  #   pdf: ./assets/eenergy.pdf
+  #   notes: "accepted"
 
-  - title: "Differential Privacy in Consumer Behavior Analysis"
-    authors: <strong>Haoxiang Wang</strong>, Xun Luo, Chenye Wu
-    conference_short: IEEE PES
-    conference: IEEE PES General Meeting 2021
-    pdf: ./assets/Privacy_for_PES__Copy_.pdf
-    others: [[Talk](https://youtu.be/WJ_vojAD7mw)]
+  # - title: "Differential Privacy in Consumer Behavior Analysis"
+  #   authors: <strong>Haoxiang Wang</strong>, Xun Luo, Chenye Wu
+  #   conference_short: IEEE PES
+  #   conference: IEEE PES General Meeting 2021
+  #   pdf: ./assets/Privacy_for_PES__Copy_.pdf
+  #   others: [[Talk](https://youtu.be/WJ_vojAD7mw)]
 
-  - title: "Privacy Preservation for Time Series Data in the Electricity Sector"
-    authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
-    conference_short: IEEE TSG
-    conference: IEEE Transactions on Smart Grid
-    pdf: ./assets/Privacy_Preservation_for_Time_Series_Data_in_the_Electricity_Sector.pdf
-    notes: "accepted"
+  # - title: "Privacy Preservation for Time Series Data in the Electricity Sector"
+  #   authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
+  #   conference_short: IEEE TSG
+  #   conference: IEEE Transactions on Smart Grid
+  #   pdf: ./assets/Privacy_Preservation_for_Time_Series_Data_in_the_Electricity_Sector.pdf
+  #   notes: "accepted"
 
-  - title: "Asynchronous Training Schemes in Distributed Learning with Time Delay"
-    authors: <strong>Haoxiang Wang</strong>, Zhanhong Jiang, Chao Liu
-    conference_short: Working Paper
-    conference: Working Paper
-    pdf: ./assets/asynchronous_training_schemes_.pdf
+  # - title: "Asynchronous Training Schemes in Distributed Learning with Time Delay"
+  #   authors: <strong>Haoxiang Wang</strong>, Zhanhong Jiang, Chao Liu
+  #   conference_short: Working Paper
+  #   conference: Working Paper
+  #   pdf: ./assets/asynchronous_training_schemes_.pdf
 
-  - title: "Federated Learning with Classifier Shift for Class Imbalance"
-    authors: Yuheng Shen, <strong>Haoxiang Wang</strong>, Hairong Lv
-    conference_short: Working Paper
-    conference: Working Paper
-    pdf: ./assets/federated_learning_with_classi.pdf
+  # - title: "Federated Learning with Classifier Shift for Class Imbalance"
+  #   authors: Yuheng Shen, <strong>Haoxiang Wang</strong>, Hairong Lv
+  #   conference_short: Working Paper
+  #   conference: Working Paper
+  #   pdf: ./assets/federated_learning_with_classi.pdf
 
-  - title: "Optimal Green Certificate Auction Considering Economic Dispatch"
-    authors: <strong>Haoxiang Wang</strong>, Chenye Wu
-    conference_short: e-Energy
-    conference: e-Energy '22
-    pdf: ./assets/optimal auction.pdf
-    notes: "accepted"
+  # - title: "Optimal Green Certificate Auction Considering Economic Dispatch"
+  #   authors: <strong>Haoxiang Wang</strong>, Chenye Wu
+  #   conference_short: e-Energy
+  #   conference: e-Energy '22
+  #   pdf: ./assets/optimal auction.pdf
+  #   notes: "accepted"
 
-  - title: "Vulnerability Analysis for Data Driven Pricing Schemes"
-    authors: Jingshi Cui, <strong>Haoxiang Wang</strong>, Chenye Wu
-    conference_short: IEEE PES
-    conference: IEEE PES General Meeting
-    pdf: https://arxiv.org/pdf/1911.07453.pdf
-    notes: "accepted"
+  # - title: "Vulnerability Analysis for Data Driven Pricing Schemes"
+  #   authors: Jingshi Cui, <strong>Haoxiang Wang</strong>, Chenye Wu
+  #   conference_short: IEEE PES
+  #   conference: IEEE PES General Meeting
+  #   pdf: https://arxiv.org/pdf/1911.07453.pdf
+  #   notes: "accepted"
 
-  - title: "Robust Data-driven Profile-based Pricing Schemes"
-    authors: Jingshi Cui, <strong>Haoxiang Wang</strong>, Chenye Wu
-    conference_short: IEEE ISGT
-    conference: IEEE ISGT NA 2021
-    pdf: https://arxiv.org/pdf/1912.05731.pdf
-    notes: "accepted"
+  # - title: "Robust Data-driven Profile-based Pricing Schemes"
+  #   authors: Jingshi Cui, <strong>Haoxiang Wang</strong>, Chenye Wu
+  #   conference_short: IEEE ISGT
+  #   conference: IEEE ISGT NA 2021
+  #   pdf: https://arxiv.org/pdf/1912.05731.pdf
+  #   notes: "accepted"
 
-  - title: "Bridging Chance-constrained and Robust Optimization in an Emission-aware Economic Dispatch with Energy Storage"
-    authors: Nan Gu, <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenye Wu
-    conference_short: IEEE TPS
-    conference: IEEE Transactions on Power Systems
-    notes: "accepted"
+  # - title: "Bridging Chance-constrained and Robust Optimization in an Emission-aware Economic Dispatch with Energy Storage"
+  #   authors: Nan Gu, <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenye Wu
+  #   conference_short: IEEE TPS
+  #   conference: IEEE Transactions on Power Systems
+  #   notes: "accepted"
 
-  - title: "Collaborative deep learning framework for fault diagnosis in distributed complex systems"
-    authors: <strong>Haoxiang Wang</strong>, Chao Liu, Dongxiang Jiang, Zhanhong Jiang
-    conference_short: MSSP
-    conference: Mechanical Systems and Signal Processing
-    pdf: ./assets/mssp.pdf
-    notes: "accepted"
+  # - title: "Collaborative deep learning framework for fault diagnosis in distributed complex systems"
+  #   authors: <strong>Haoxiang Wang</strong>, Chao Liu, Dongxiang Jiang, Zhanhong Jiang
+  #   conference_short: MSSP
+  #   conference: Mechanical Systems and Signal Processing
+  #   pdf: ./assets/mssp.pdf
+  #   notes: "accepted"
 
 
   # - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
