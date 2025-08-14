@@ -5,8 +5,7 @@ main:
     conference_short: IEEE TSG
     conference: IEEE Transactions on Smart Grid
     pdf: https://arxiv.org/pdf/2011.06205.pdf
-    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
-    notes: "accepted"
+    bibtex: https://dblp.org/rec/journals/tsg/WangZLW21.html?view=bibtex
     # image: https://img.yliu.me/teaser/imagenet3d.png
 
   - title: "Understanding Differential Privacy in Non-Intrusive Load Monitoring"
