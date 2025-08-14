@@ -1,12 +1,12 @@
 main:
 
-  # - title: "Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective"
-  #   authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
-  #   conference_short: IEEE TSG
-  #   conference: IEEE Transactions on Smart Grid
-  #   pdf: https://arxiv.org/pdf/2011.06205.pdf
-  #   bibtex: https://dblp.org/rec/journals/tsg/WangZLW21.html?view=bibtex
-  #   # image: https://img.yliu.me/teaser/imagenet3d.png
+  - title: "Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective"
+    authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
+    conference_short: IEEE TSG
+    conference: IEEE Transactions on Smart Grid
+    pdf: https://arxiv.org/pdf/2011.06205.pdf
+    bibtex: https://dblp.org/rec/journals/tsg/WangZLW21.html?view=bibtex
+    # image: https://img.yliu.me/teaser/imagenet3d.png
 
   # - title: "Understanding Differential Privacy in Non-Intrusive Load Monitoring"
   #   authors: <strong>Haoxiang Wang</strong>, Chenye Wu
