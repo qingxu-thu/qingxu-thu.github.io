@@ -1,8 +1,8 @@
 Fluid_Simulation:
   - title: Kinetic Free-Surface Flows and Foams with sharp Interfaces
     authors: <strong>Haoxiang Wang</strong>, Hui Qiao, Kui Wu, Mattieu Desbrun, Wei Li
-    conference: ACM Transactions on Graphics (SIGGRAPH Asia 2025, Journal Track)
-    notes: Conditionally accepted
+    conference: ACM Transactions on Graphics (SIGGRAPH Asia 2025)
+    notes: Journal Track,Conditionally accepted
 
   - title: Neural Fluid Simulation on Geometric Surfaces
     authors: <strong>Haoxiang Wang</strong>, Tao Yu, Hui Qiao, Qionghai Dai
@@ -13,10 +13,11 @@ Fluid_Simulation:
   - title: Neural physical simulation with multi-resolution hash grid encoding
     authors: <strong>Haoxiang Wang</strong>, Tao Yu, Tianwei Yang, Hui Qiao, Qionghai Dai
     conference: Annual AAAI Conference on Artificial Intelligence (AAAI oral) 2024
+    notes: Oral
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28349/28684
     bibtex: https://dblp.org/rec/conf/aaai/Wang0YQD24.html?view=bibtex
     Talk: https://underline.io/lecture/92723-neural-physical-simulation-with-multi-resolution-hash-grid-encoding
-    notes: Oral
+    
 
 High-fieldity_Reconstruction:
   - title: "ImViD: Immersive Volumetric Videos for Enhanced VR Engagement"

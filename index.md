@@ -15,8 +15,8 @@ My research interests are physical simulation (especially fluid) and animation. 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/sig.jpg" width="800"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Kinetic Free-Surface Flows and Foams with sharp Interfaces</strong><br>
     <strong>Haoxiang Wang</strong>, Hui Qiao, Kui Wu, Mattieu Desbrun, Wei Li<br>
-    ACM Transactions on Graphics (SIGGRAPH Asia 2025, Journal Track)<br>
-    <em>Conditionally accepted</em></p></li></ul></th>
+    ACM Transactions on Graphics (SIGGRAPH Asia 2025)<br>
+    <em>Journal Track, Conditionally accepted</em></p></li></ul></th>
   </tr>
   <tr>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/NeuralFluid.jpg" width="800"></p></th>
@@ -29,8 +29,8 @@ My research interests are physical simulation (especially fluid) and animation. 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/ty.png" width="800"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Neural physical simulation with multi-resolution hash grid encoding</strong><br>
     <strong>Haoxiang Wang</strong>, Tao Yu, Tianwei Yang, Hui Qiao, Qionghai Dai<br>
-    Annual AAAI Conference on Artificial Intelligence (AAAI oral) 2024<br>
-    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28349/28684" target="_blank">Paper</a>] [<a href="https://underline.io/lecture/92723-neural-physical-simulation-with-multi-resolution-hash-grid-encoding" target="_blank">Talk</a>] <em>Oral</em></p></li></ul></th>
+    Annual AAAI Conference on Artificial Intelligence (AAAI 2024) <br><em>Oral</em>
+    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28349/28684" target="_blank">Paper</a>] [<a href="https://underline.io/lecture/92723-neural-physical-simulation-with-multi-resolution-hash-grid-encoding" target="_blank">Talk</a>]</p></li></ul></th>
   </tr>
   <tr>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/ImVID.jpg" width="800"></p></th>
