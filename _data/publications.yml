@@ -6,13 +6,13 @@ Fluid_Simulation:
 
   - title: Neural Fluid Simulation on Geometric Surfaces
     authors: <strong>Haoxiang Wang</strong>, Tao Yu, Hui Qiao, Qionghai Dai
-    conference: International Conference on Learning Representations (ICLR) 2025
+    conference: International Conference on Learning Representations (ICLR 2025)
     pdf: https://openreview.net/forum?id=58lbAsXCoZ
     bibtex: https://proceedings.iclr.cc/paper_files/paper/1147-/bibtex
 
   - title: Neural physical simulation with multi-resolution hash grid encoding
     authors: <strong>Haoxiang Wang</strong>, Tao Yu, Tianwei Yang, Hui Qiao, Qionghai Dai
-    conference: Annual AAAI Conference on Artificial Intelligence (AAAI oral) 2024
+    conference: Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
     notes: Oral
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28349/28684
     bibtex: https://dblp.org/rec/conf/aaai/Wang0YQD24.html?view=bibtex
@@ -22,17 +22,19 @@ Fluid_Simulation:
 High-fieldity_Reconstruction:
   - title: "ImViD: Immersive Volumetric Videos for Enhanced VR Engagement"
     authors:  Zhengxian Yang, Shi Pan, Shengqi Wang, <strong>Haoxiang Wang</strong>, Li Lin, Guanjun Li, Zhengqi Wen, Borong Lin, Jianhua Tao, Tao Yu.
-    conferene: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025 highlight).
+    conferene: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).
     page: https://yzxqh.github.io/ImViD/
     pdf: https://arxiv.org/pdf/2503.14359
     Talk: https://www.youtube.com/watch?v=qRl8lEAIPGI
     bibtex: https://dblp.org/rec/conf/cvpr/YangPWWLLWL0Y25.html?view=bibtex
+    notes: Highlight
 
   - title: "ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction"
     authors: Xiaohang Yu, <strong>Haoxiang Wang</strong>, Yuqi Han, Lei Yang, Tao Yu, Qionghai Dai
-    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025 highlight).
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG)
     pdf: https://arxiv.org/abs/2309.01374
     bibtex: https://dblp.org/rec/journals/tvcg/YuWHYYD25.html?view=bibtex
+    
 
 
 Stochastic_Process_and_Privacy:
@@ -76,7 +78,7 @@ Stochastic_Process_and_Privacy:
 
   - title: "Asynchronous Training Schemes in Distributed Learning with Time Delay"
     authors: <strong>Haoxiang Wang</strong>, Zhanhong Jiang, Chao Liu
-    conference: Transactions on Machine Learning Research
+    conference: Transactions on Machine Learning Research (TMLR)
     pdf: https://openreview.net/pdf?id=zOGJxw07Z6
     bibtex: https://dblp.org/rec/journals/tmlr/0006J0SJL24.html?view=bibtex
 

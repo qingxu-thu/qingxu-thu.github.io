@@ -22,7 +22,7 @@ My research interests are physical simulation (especially fluid) and animation. 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/NeuralFluid.jpg" width="800"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Neural Fluid Simulation on Geometric Surfaces</strong><br>
     <strong>Haoxiang Wang</strong>, Tao Yu, Hui Qiao, Qionghai Dai<br>
-    International Conference on Learning Representations (ICLR) 2025<br>
+    International Conference on Learning Representations (ICLR 2025)<br>
     [<a href="https://openreview.net/forum?id=58lbAsXCoZ" target="_blank">Paper</a>]</p></li></ul></th>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ My research interests are physical simulation (especially fluid) and animation. 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/ImVID.jpg" width="800"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>ImViD: Immersive Volumetric Videos for Enhanced VR Engagement</strong><br>
     Zhengxian Yang, Shi Pan, Shengqi Wang, <strong>Haoxiang Wang</strong>, Li Lin, Guanjun Li, Zhengqi Wen, Borong Lin, Jianhua Tao, Tao Yu<br>
-    The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025 highlight)<br>
+    The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025)<br><em>Hignlight</em>
     [<a href="https://arxiv.org/pdf/2503.14359" target="_blank">Paper</a>] [<a href="https://yzxqh.github.io/ImViD/" target="_blank">Project Page</a>]</p></li></ul></th>
   </tr>
 </table>
