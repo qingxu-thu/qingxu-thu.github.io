@@ -47,21 +47,21 @@ Stochastic_Process_and_Privacy:
   - title: "Understanding Differential Privacy in Non-Intrusive Load Monitoring"
     authors: <strong>Haoxiang Wang</strong>, Chenye Wu
     conference: ACM SIGEnergy '20
-    pdf: ./assets/eenergy.pdf
+    pdf: ../assets/eenergy.pdf
     bibtex: https://dblp.org/rec/conf/eenergy/WangW20.html?view=bibtex
 
 
   - title: "Differential Privacy in Consumer Behavior Analysis"
     authors: <strong>Haoxiang Wang</strong>, Xun Luo, Chenye Wu
     conference: IEEE PES General Meeting 2021
-    pdf: ./assets/Privacy_for_PES__Copy_.pdf
+    pdf: ../assets/Privacy_for_PES__Copy_.pdf
     Talk: https://youtu.be/WJ_vojAD7mw
     bibtex: https://ieeexplore.ieee.org/document/9637997
 
   - title: "Privacy Preservation for Time Series Data in the Electricity Sector"
     authors: <strong>Haoxiang Wang</strong>, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
     conference: IEEE Transactions on Smart Grid
-    pdf: ./assets/Privacy_Preservation_for_Time_Series_Data_in_the_Electricity_Sector.pdf
+    pdf: ../assets/Privacy_Preservation_for_Time_Series_Data_in_the_Electricity_Sector.pdf
     bibtex: https://dblp.org/rec/journals/tsg/WangW23.html?view=bibtex
 
   - title: "Privacy preserving user energy consumption profiling: From theory to application"
@@ -86,7 +86,7 @@ Data_Analysis_and_Machine_Learning:
   - title: "Optimal Green Certificate Auction Considering Economic Dispatch"
     authors: <strong>Haoxiang Wang</strong>, Chenye Wu
     conference: ACM SIGEnergy '22
-    pdf: ./assets/optimal auction.pdf
+    pdf: ../assets/optimal auction.pdf
     Talk: https://www.youtube.com/watch?v=BO0XTwquxtQ&t=53s
     bibtex: https://dl.acm.org/doi/10.1145/3538637.3538847
 
@@ -111,7 +111,7 @@ Data_Analysis_and_Machine_Learning:
   - title: "Collaborative deep learning framework for fault diagnosis in distributed complex systems"
     authors: <strong>Haoxiang Wang</strong>, Chao Liu, Dongxiang Jiang, Zhanhong Jiang
     conference: Mechanical Systems and Signal Processing
-    pdf: ./assets/mssp.pdf
+    pdf: ../assets/mssp.pdf
     bibtex: https://www.sciencedirect.com/science/article/pii/S0888327021000455
 
 

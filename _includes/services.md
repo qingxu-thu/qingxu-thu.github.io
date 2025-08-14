@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">CV</h2>
 
 <div style="margin: 20px 0px;">
-  <a href="./assets/whxcv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CV]</a>
+  <a href="../assets/whxcv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CV]</a>
 </div>
 
 <h2 style="margin: 60px 0px 10px;">Awards and Honors </h2>
