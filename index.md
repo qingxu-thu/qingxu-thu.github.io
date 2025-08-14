@@ -9,7 +9,7 @@ My research interests are physical simulation (especially fluid) and animation. 
 
 
   
-## Project
+## Selection Publication
 <table style="width:100%; border: none;">
    <tr>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img href="https://github.com/qingxu-thu/plasma_ignite" src="./assets/img/T.gif" width="600"></p></th>
@@ -46,12 +46,6 @@ My research interests are physical simulation (especially fluid) and animation. 
 </table>
 
 
-## Awards and Honors 
-- Academic Scholarship for Tsinghua University, Sept 2017,2018 
-- Excellent graduate of Tsinghua University, Sept 2019 
-
 ## Academic Service
 - Reviewer for Neruips 2022 and ICLM 2023
 - TA for Basic of Artificial Intelligence in Tsinghua University
-
-For more information, you could come to my CV [[PDF](./assets/cveg2.pdf)].
