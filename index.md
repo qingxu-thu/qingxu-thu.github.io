@@ -12,32 +12,32 @@ My research interests are physical simulation (especially fluid) and animation. 
 ## Selected Publications
 <table style="width:100%; border: none;">
    <tr>
-    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/sig.jpg" width="600"></p></th>
+    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/sig.jpg" width="800"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Kinetic Free-Surface Flows and Foams with sharp Interfaces</strong><br>
     <strong>Haoxiang Wang</strong>, Hui Qiao, Kui Wu, Mattieu Desbrun, Wei Li<br>
     ACM Transactions on Graphics (SIGGRAPH Asia 2025, Journal Track)<br>
     <em>Conditionally accepted</em></p></li></ul></th>
   </tr>
   <tr>
-    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/NeuralFluid.jpg" width="600"></p></th>
+    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/NeuralFluid.jpg" width="800"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Neural Fluid Simulation on Geometric Surfaces</strong><br>
     <strong>Haoxiang Wang</strong>, Tao Yu, Hui Qiao, Qionghai Dai<br>
     International Conference on Learning Representations (ICLR) 2025<br>
-    [[Paper](https://openreview.net/forum?id=58lbAsXCoZ)]</p></li></ul></th>
+    [<a href="https://openreview.net/forum?id=58lbAsXCoZ" target="_blank">Paper</a>]</p></li></ul></th>
   </tr>
   <tr>
-    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/ty.png" width="600"></p></th>
+    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/ty.png" width="800"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Neural physical simulation with multi-resolution hash grid encoding</strong><br>
     <strong>Haoxiang Wang</strong>, Tao Yu, Tianwei Yang, Hui Qiao, Qionghai Dai<br>
     Annual AAAI Conference on Artificial Intelligence (AAAI oral) 2024<br>
-    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28349/28684)] [[Talk](https://underline.io/lecture/92723-neural-physical-simulation-with-multi-resolution-hash-grid-encoding)] <em>Oral</em></p></li></ul></th>
+    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28349/28684" target="_blank">Paper</a>] [<a href="https://underline.io/lecture/92723-neural-physical-simulation-with-multi-resolution-hash-grid-encoding" target="_blank">Talk</a>] <em>Oral</em></p></li></ul></th>
   </tr>
   <tr>
-    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/ImVID.png" width="600"></p></th>
+    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img src="./assets/img/ImVID.jpg" width="800"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>ImViD: Immersive Volumetric Videos for Enhanced VR Engagement</strong><br>
     Zhengxian Yang, Shi Pan, Shengqi Wang, <strong>Haoxiang Wang</strong>, Li Lin, Guanjun Li, Zhengqi Wen, Borong Lin, Jianhua Tao, Tao Yu<br>
     The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025 highlight)<br>
-    [[Paper](https://arxiv.org/pdf/2503.14359)] [[Project Page](https://yzxqh.github.io/ImViD/)]</p></li></ul></th>
+    [<a href="https://arxiv.org/pdf/2503.14359" target="_blank">Paper</a>] [<a href="https://yzxqh.github.io/ImViD/" target="_blank">Project Page</a>]</p></li></ul></th>
   </tr>
 </table>
 
