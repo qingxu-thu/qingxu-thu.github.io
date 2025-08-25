@@ -22,7 +22,7 @@ Fluid_Simulation:
 High-fieldity_Reconstruction:
   - title: "ImViD: Immersive Volumetric Videos for Enhanced VR Engagement"
     authors:  Zhengxian Yang, Shi Pan, Shengqi Wang, <strong>Haoxiang Wang</strong>, Li Lin, Guanjun Li, Zhengqi Wen, Borong Lin, Jianhua Tao, Tao Yu.
-    conferene: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).
+    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025).
     page: https://yzxqh.github.io/ImViD/
     pdf: https://arxiv.org/pdf/2503.14359
     Talk: https://www.youtube.com/watch?v=qRl8lEAIPGI
