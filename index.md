@@ -17,7 +17,7 @@ My research interests are physical simulation (especially fluid) and animation. 
     <strong>Haoxiang Wang</strong>, Hui Qiao, Kui Wu, Mattieu Desbrun, Wei Li<br>
     ACM Transactions on Graphics (SIGGRAPH Asia 2025)<br>
     <em>Journal Track, Conditionally accepted</em>
-    [<a href="./assets/WWQDL25.pdf" target="_blank">Paper</a>][<a href="./assets/Final2.mp4" target="_blank">Video</a>]
+    [<a href="./assets/WWQD25.pdf" target="_blank">Paper</a>][<a href="./assets/Final2.mp4" target="_blank">Video</a>]
     </p></li></ul></th>
   </tr>
   <tr>
