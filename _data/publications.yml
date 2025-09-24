@@ -1,8 +1,8 @@
 Fluid_Simulation:
   - title: Kinetic Free-Surface Flows and Foams with sharp Interfaces
-    authors: <strong>Haoxiang Wang</strong>, Hui Qiao, Kui Wu, Mattieu Desbrun, Wei Li
+    authors: <strong>Haoxiang Wang</strong>, Kui Wu, Hui Qiao, Mattieu Desbrun, Wei Li
     conference: ACM Transactions on Graphics (SIGGRAPH Asia 2025)
-    notes: Journal Track, Conditionally accepted
+    notes: Journal Track
 
   - title: Neural Fluid Simulation on Geometric Surfaces
     authors: <strong>Haoxiang Wang</strong>, Tao Yu, Hui Qiao, Qionghai Dai

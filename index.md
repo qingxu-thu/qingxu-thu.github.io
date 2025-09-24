@@ -16,7 +16,7 @@ My research interests are physical simulation (especially fluid) and animation. 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Kinetic Free-Surface Flows and Foams with sharp Interfaces</strong><br>
     <strong>Haoxiang Wang</strong>, Kui Wu, Hui Qiao, Mattieu Desbrun, Wei Li<br>
     ACM Transactions on Graphics (SIGGRAPH Asia 2025)<br>
-    <em>Journal Track, Conditionally accepted</em>
+    <em>Journal Track, accepted</em>
     [<a href="./assets/WWQD25.pdf" target="_blank">Paper</a>][<a href="./assets/Final2.mp4" target="_blank">Video</a>]
     </p></li></ul></th>
   </tr>
